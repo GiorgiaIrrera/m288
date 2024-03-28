@@ -12,3 +12,27 @@ Als nächsten Schritt haben wir die Steuerung programmiert, sodass die Schlange 
 Nachdem die Schlange fertig war, haben wir mit dem Programmieren des Essens begonnen. Auch hier haben wir zunächst ein Feld eingefärbt und mithilfe des Tutorials programmiert, dass es sich an einen neuen Ort bewegt, sobald die Schlange es gegessen hat. Als auch dies erfolgreich war, haben wir das SBW-Logo als Futter integriert, um sicherzustellen, dass unser Spiel dem SBW-Design entspricht. Dies war etwas schwieriger, da wir nicht wussten, wie dies funktioniert. Daher haben wir uns Hilfe von ChatGPT genommen und das SBW-Logo als Futter einbinden können. Auch für den Score haben wir ChatGPT zu Hilfe genommen.
 
 Das Spiel responsiv zu machen, hat leider nicht so gut funktioniert. Danach haben wir den HTML-Code in den Validator getan. Da keine Fehler aufgetreten sind, haben wir dann das Spiel hochgeladen.
+
+
+Testprotokoll
+
+# Schlangenbewegung
+
+Die Schlange hat eine flüssige Bewegung, sie kann in alle Richtungen gehen und hat eine angenehmen Schnelligkeit.
+
+# Kompatibilitätstest
+
+Man kann das spiel auf mehreren Browser spielen.
+
+# Grafik und Design
+
+Das SBW Logo wurde wie geplant für das Essen der Schlange verwendet, und es das Spiel wurde mit dem SBW Farben gestaltet.
+
+# Funktionstest
+
+Das Spiel Funktioniert ohne Probleme.
+
+# Fehlerbehandlungs-Test
+
+Wie haben das Spiel auf Fehler untersucht und im Anschluss korrigiert.
+
